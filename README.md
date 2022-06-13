@@ -1,4 +1,14 @@
-⚠️ Fork for creating the London Creative Coding background asset
+### ⚠️ Fork for creating the London Creative Coding background asset
+
+The background animation is generated from the file `./examples/animated-grid-for-lcc.js`.
+
+This projects requires Node 8. Use `nvm` to switch node versions and ensure Python 2.7 is installed using `pyenv`.
+
+The old version of Node will fail to install on M1 Macs, to get around this run your terminal under Rosetta 2. Do this by right clicking the terminal app > Get Info > Tick "Open using Rosetta".
+
+After enabling Rosetta, run `nvm install 8`.
+
+---
 
 ### canvas-sketch
 
@@ -17,7 +27,7 @@
 </p>
 
 <p align="center">
-  <sub>↓</sub> 
+  <sub>↓</sub>
 </p>
 
 <p align="center">
